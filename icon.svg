@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="收操 · 緩">
+  <defs>
+    <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c08a57" />
+      <stop offset="55%" stop-color="#a56b3d" />
+      <stop offset="100%" stop-color="#7a4a28" />
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fdf9f2" />
+      <stop offset="100%" stop-color="#f0e3ce" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#paper)" />
+  <rect x="34" y="34" width="444" height="444" rx="92" fill="url(#wood)" />
+  <g fill="none" stroke="#f7ecd9" stroke-linecap="round" opacity="0.92">
+    <path d="M150 322c0-96 78-174 174-174" stroke-width="26" />
+    <path d="M178 356c0-80 65-145 145-145" stroke-width="20" opacity="0.75" />
+    <path d="M206 388c0-64 52-116 116-116" stroke-width="14" opacity="0.55" />
+  </g>
+  <circle cx="150" cy="322" r="15" fill="#f7ecd9" opacity="0.9" />
+</svg>
